@@ -49,7 +49,11 @@ Compare model performance and identify the vehicle characteristics most strongly
 * **EDA Reports** – Generated exploratory data analysis and profiling reports.
 * **Figures** – Project figures, visualizations, and system architecture diagrams.
 * **Final Report** – Final project report and supporting deliverables.
+### Key Project Files
 
+- EDA Notebook: [CIND_820_EDA.ipynb](./Notebooks/CIND_820_EDA.ipynb)
+
+- Generated EDA Report: [Final_EDA_820.html](./EDA%20Reports/Final_EDA_820.html)
 ## Conclusion
 
 This repository documents the development of a predictive analytics project focused on vehicle fuel consumption and CO2 emissions in Canada. Through data profiling, preprocessing, feature engineering, and predictive modelling, the project aims to improve understanding of the factors associated with vehicle emissions and evaluate the effectiveness of different modelling approaches for emissions prediction.
