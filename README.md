@@ -1,4 +1,4 @@
-# Vehicle Emissions Prediction Using Canadian Fuel Consumption Data
+# Predicting Vehicle CO₂ Emissions Using Canadian Vehicle Data
 
 ## Project Overview
 
