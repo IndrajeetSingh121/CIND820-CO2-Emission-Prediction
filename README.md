@@ -103,7 +103,7 @@ Running the notebook will generate the following outputs:
 * Model comparison table
 * HTML Exploratory Data Analysis report
 
-### Coding Assistance Declaration
+## Coding Assistance Declaration
 
 All code submitted in this project was developed, tested, and validated by me. I take full responsibility for the design, implementation, and correctness of the code and the results it produces.
 
