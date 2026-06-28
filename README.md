@@ -87,7 +87,7 @@ Compiled Model Development Notebook
 
 * HTML Version: 
 
-* Final Report: Final project report (to be added upon completion)
+Final Report: Final project report (to be added upon completion)
 
 ## Expected Outputs
 
