@@ -78,11 +78,11 @@ The project was developed using **Python in Google Colab**. The following librar
 - EDA Notebook: [CIND_820_EDA.ipynb](./Notebooks/CIND_820_EDA.ipynb)
 
 - Generated EDA Report: [Final_EDA_820.html](./EDA%20Reports/Final_EDA_820.html)
-# Model Development Notebook
+### Model Development Notebook
 
 * Project Notebook (.ipynb):
 
-# Compiled Model Development Notebook
+### Compiled Model Development Notebook
 
 * HTML Version: 
 
