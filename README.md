@@ -59,11 +59,55 @@ Interpret the modelling results, compare model performance, and identify the veh
 * **EDA Reports** – Generated exploratory data analysis and profiling reports.
 * **Figures** – Project figures, visualizations, and system architecture diagrams.
 * **Final Report** – Final project report and supporting deliverables.
-### Key Project Files
+
+## Environment and Required Dependencies
+
+The project was developed using **Python in Google Colab**. The following libraries are required to reproduce the analysis:
+
+* pandas
+* numpy
+* matplotlib
+* seaborn
+* scikit-learn
+* scipy
+* ydata-profiling
+
+
+### Project Artifacts
 
 - EDA Notebook: [CIND_820_EDA.ipynb](./Notebooks/CIND_820_EDA.ipynb)
 
 - Generated EDA Report: [Final_EDA_820.html](./EDA%20Reports/Final_EDA_820.html)
+## Model Development Notebook
+
+* Project Notebook (.ipynb):
+
+## Compiled Model Development Notebook
+
+* HTML Version:
+
+* PDF Version: 
+
+- Final Report: Final project report (to be added upon completion)
+
+## Expected Outputs
+
+Running the notebook will generate the following outputs:
+
+* Descriptive statistics
+* Histograms and boxplots
+* Scatter plots
+* Preprocessed training and testing datasets
+* Multiple Linear Regression performance metrics
+* Random Forest Regression performance metrics
+* Residual diagnostic plots
+* Model comparison table
+* HTML Exploratory Data Analysis report
+
+### Coding Assistance Declaration
+
+All code submitted in this project was developed, tested, and validated by me. I take full responsibility for the design, implementation, and correctness of the code and the results it produces.
+
 ## Conclusion
 
 This repository documents the development of a predictive analytics project focused on vehicle fuel consumption and CO2 emissions in Canada. Through data profiling, preprocessing, feature engineering, and predictive modelling, the project aims to improve understanding of the factors associated with vehicle emissions and evaluate the effectiveness of different modelling approaches for emissions prediction.
