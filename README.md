@@ -73,22 +73,20 @@ The project was developed using **Python in Google Colab**. The following librar
 * ydata-profiling
 
 
-### Project Artifacts
+## Project Artifacts
 
 - EDA Notebook: [CIND_820_EDA.ipynb](./Notebooks/CIND_820_EDA.ipynb)
 
 - Generated EDA Report: [Final_EDA_820.html](./EDA%20Reports/Final_EDA_820.html)
-## Model Development Notebook
+# Model Development Notebook
 
 * Project Notebook (.ipynb):
 
-## Compiled Model Development Notebook
+# Compiled Model Development Notebook
 
-* HTML Version:
+* HTML Version: 
 
-* PDF Version: 
-
-- Final Report: Final project report (to be added upon completion)
+* Final Report: Final project report (to be added upon completion)
 
 ## Expected Outputs
 
