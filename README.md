@@ -14,33 +14,43 @@ https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64
 
 The dataset contains fuel consumption ratings and estimated CO2 emissions for new light-duty vehicles sold in Canada between model years 2015 and 2024. Variables include vehicle specifications, fuel consumption measures, environmental ratings, and CO2 emissions.
 
+Dataset Size
+
+- 10,060 observations
+- 15 variables
+- Model Years: 2015–2024
+
+## Project Objectives
+
+This project aims to:
+
+• Predict vehicle CO₂ emissions using vehicle characteristics.
+• Identify the factors associated with higher vehicle emissions.
+• Compare the performance of Multiple Linear Regression and Random Forest Regression models.
+• Support transportation sustainability analysis through predictive modelling.
+
 ## Planned Approach
 
-The project follows the analytical workflow below:
+### Step 1: Data Loading and Exploratory Data Analysis (EDA)
+Load the Canadian fuel consumption dataset and perform descriptive analysis to understand the dataset structure, variable distributions, missing values, outliers, and relationships between vehicle characteristics and CO₂ emissions.
 
-### Step 1: Data Profiling and Exploratory Data Analysis (EDA)
+### Step 2: Train-Test Split
+Split the dataset into training (80%) and testing (20%) sets before any preprocessing. This prevents information from the testing data from influencing model training and reduces the risk of data leakage.
 
-Examine the dataset structure, assess data quality, identify missing values and outliers, and explore relationships between vehicle characteristics, fuel consumption, and CO2 emissions.
-
-### Step 2: Data Preprocessing
-
-Prepare the dataset for analysis by addressing missing values through imputation, validating data types, checking for duplicate records, and assessing data consistency.
-
-### Step 3: Feature Engineering
-
-Select relevant predictor variables and transform categorical variables into machine-learning-ready features using one-hot encoding.
+### Step 3: Data Preprocessing
+Handle missing values using median imputation, transform categorical variables using one-hot encoding, and standardize numerical variables. All fitted transformations are learned from the training data and then applied to the testing data.
 
 ### Step 4: Model Development
-
-Develop and compare Linear Regression and Random Forest Regression models for predicting vehicle CO2 emissions.
+Develop baseline predictive models using Multiple Linear Regression and Random Forest Regression to estimate vehicle CO₂ emissions.
 
 ### Step 5: Model Evaluation
+Evaluate model performance using Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R² Score. Compare the performance of both models.
 
-Evaluate model performance using Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R² Score.
+### Step 6: Model Validation
+Assess the modelling pipeline through residual diagnostics, overfitting assessment, and proxy leakage evaluation to ensure reliable model performance.
 
-### Step 6: Results and Interpretation
-
-Compare model performance and identify the vehicle characteristics most strongly associated with vehicle CO2 emissions.
+### Step 7: Results and Interpretation
+Interpret the modelling results, compare model performance, and identify the vehicle characteristics most strongly associated with CO₂ emissions.
 
 ## Repository Structure
 
