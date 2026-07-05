@@ -126,5 +126,7 @@ This repository documents the development of a predictive analytics project focu
 ## Author
 
 **Indrajeet Singh**
+
 TMU Certificate in Data Analytics, Big Data and Predictive Analytics
+
 Toronto Metropolitan University
