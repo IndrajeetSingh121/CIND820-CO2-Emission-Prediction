@@ -86,7 +86,7 @@ The project was developed using **Python in Google Colab**. The following librar
 ### Exploratory Data Analysis
 
 - EDA Notebook (.ipynb) 
-- HTML EDA Report
+- HTML EDA Report (EDA Reports/Final_EDA_820.html)
 
 ### Model Development
 
