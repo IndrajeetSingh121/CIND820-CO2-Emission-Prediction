@@ -90,7 +90,7 @@ The project was developed using **Python in Google Colab**. The following librar
 
 ### Model Development
 
-- Milestone 3 Initial Results Notebook (.ipynb)
+- Initial Results Notebook (.ipynb)
 - HTML Version of the Notebook
   
 ### Reports
