@@ -58,7 +58,7 @@ The results were interpreted by comparing the performance of both models and ide
 * **Notebooks** – Google Colab notebooks used for analysis and modelling.
 * **EDA Reports** – Generated exploratory data analysis and profiling reports.
 * **Figures** – Project figures, visualizations, and system architecture diagrams.
-* **Final Report** – Final project report and supporting deliverables.
+* **Reports** – Final project report and supporting deliverables.
 
 ## Environment and Required Dependencies
 
