@@ -94,7 +94,7 @@ The project was developed using **Python in Google Colab**. The following librar
 - PDF version of the Notebook
   
 ### Reports
-- Initial Results Report
+- [Initial Results Report (PDF)](Reports/Initial_Result_Report.pdf)
   
 ### Presentation
 
