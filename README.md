@@ -91,7 +91,7 @@ The project was developed using **Python in Google Colab**. The following librar
 ### Model Development
 
 - Initial Results Notebook (.ipynb)
-- HTML Version of the Notebook
+- PDF version of the Notebook
   
 ### Reports
 
