@@ -97,7 +97,7 @@ The project was developed using **Python in Google Colab**. The following librar
 - [Initial_result_Model_development_ipynb (PDF)](Reports/Initial_result_Model_development._ipynb.pdf)
   
 ### Reports
-- [Initial Results Report (PDF)](Reports/Initial_Result_Report.pdf)
+
   
 ### Presentation
 
