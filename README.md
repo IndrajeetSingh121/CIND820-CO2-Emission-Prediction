@@ -94,10 +94,7 @@ The project was developed using **Python in Google Colab**. The following librar
 - PDF version of the Notebook
   
 ### Reports
-
-- Milestone 1 Report
-- Milestone 2 Report
-- Milestone 3 Initial Results Report
+- Initial Results Report
   
 ### Presentation
 
