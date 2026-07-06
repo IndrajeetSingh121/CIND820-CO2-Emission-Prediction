@@ -83,6 +83,9 @@ The project was developed using **Python in Google Colab**. The following librar
 
 ## Project Artifacts
 
+### Dataset
+- 
+
 ### Exploratory Data Analysis
 
 - [EDA Notebook](./Notebooks/CIND_820_EDA.ipynb)
