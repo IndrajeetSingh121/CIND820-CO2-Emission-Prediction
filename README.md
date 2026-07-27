@@ -104,7 +104,7 @@ The project was developed using **Python in Google Colab**. The following librar
 
 - [Final Report](Final%20Report/Singh_Indrajeet_FinalReport.pdf)
 
-### Presentatio
+### Presentation
 
 - Google Meet Video Presentation- https://drive.google.com/file/d/1g1V9A6stjYUNNz83L4XmOWXoh8wdE5Jk/view?usp=sharing
   
