@@ -101,7 +101,7 @@ The project was developed using **Python in Google Colab**. The following librar
 - [Initial_Result_Report](Reports/Initial_Result_Report.pdf)
 
 ### Final Report
--[Final_Report].(Final Report/Singh_Indrajeet_FinalReport.pdf)
+- [Final Report](Final_Report/Singh_Indrajeet_FinalReport.pdf)
 
 ### Presentation
 
